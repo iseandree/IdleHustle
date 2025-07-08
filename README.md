@@ -1,2 +1,2 @@
 # IdleHustle
-An idle clicker game
+An idle clicker game made in Unity
